@@ -13,15 +13,15 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=1&color=F7F7F7&vCenter=true&repeat=false&width=35&height=35&lines=%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=1&pause=1000&color=F7F7F7&vCenter=true&width=650&height=40&lines=%3A++GitHub%2C+AWS%2C+MongoDb%2C+Linux" alt="Typing SVG" /></a>
 
-![image](https://github.com/user-attachments/assets/06992e5c-65fb-4f74-9238-d4565b970979)
-![image](https://github.com/user-attachments/assets/1aa3065f-18c7-42b5-b92b-a933dc827f8a)
-![image](https://github.com/user-attachments/assets/5935aba9-e78d-479e-a262-29b7c74ffeaa)
-![image](https://github.com/user-attachments/assets/ebe90437-0529-4118-be5f-ef757dd2ef9a)
-![image](https://github.com/user-attachments/assets/ce84cc42-fdd2-4b36-ad1b-2f2aae9586b4)
+![Java](https://skillicons.dev/icons?i=java&height=24)
+![Python](https://skillicons.dev/icons?i=python&height=24)
+![AWS](https://skillicons.dev/icons?i=aws&height=24)
+![Linux](https://skillicons.dev/icons?i=linux&height=24)
+![C++](https://skillicons.dev/icons?i=cpp&height=24)
+![GitHub](https://skillicons.dev/icons?i=github&height=24)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=1&color=F7F7F7&vCenter=true&repeat=false&width=600&height=35&lines=Mis+redes+sociales%3A" alt="Typing SVG" /></a>
 
-Instagram: https://www.instagram.com/joaco_wn/
 
 
 
