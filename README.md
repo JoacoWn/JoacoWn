@@ -20,7 +20,6 @@
 ![C++](https://skillicons.dev/icons?i=cpp&height=24)
 ![GitHub](https://skillicons.dev/icons?i=github&height=24)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=1&color=F7F7F7&vCenter=true&repeat=false&width=600&height=35&lines=Mis+redes+sociales%3A" alt="Typing SVG" /></a>
 
 
 
