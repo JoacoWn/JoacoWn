@@ -1,29 +1,68 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=1&pause=1000&color=F7F7F7&vCenter=true&width=650&height=40&lines=Joaqu%C3%ADn+Arriagada" alt="Typing SVG" /></a>
+# <h1 align="center">Joaquín Arriagada</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=1&pause=1000&color=F7F7F7&vCenter=true&width=650&height=40&lines=El+%C3%BAnico+l%C3%ADmite%2C+es+el+cielo" alt="Typing SVG" /></a>
+<h2 align="center">🚀 "El único límite es el cielo" 🚀</h2>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=F7F7F7&vCenter=true&width=650&height=40&lines=Hola%2C+soy+Joaqu%C3%ADn" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=F7F7F7&vCenter=true&width=650&height=40&lines=Estudiante+de+Ingenier%C3%ADa+Civil+Inform%C3%A1tica%2C+UFRO" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=F7F7F7&vCenter=true&width=650&height=40&lines=Me+encanta+hacer+deporte%2C+los+videojuegos+y+codificar." alt="Typing SVG" /></a>
+<h3 align="center">📌 Estudiante de Ingeniería Civil Informática en la Universidad de La Frontera (UFRO)</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Apasionado+por+la+tecnolog%C3%ADa+y+el+desarrollo;Amante+del+deporte+y+los+videojuegos;Siempre+aprendiendo+y+creando" alt="Typing SVG" />
+</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=1&color=F7F7F7&vCenter=true&repeat=false&width=35&height=35&lines=%F0%9F%92%BB" alt="Typing SVG" /></a> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=1&color=F7F7F7&vCenter=true&repeat=false&width=600&height=35&lines=Herramientas+que+manejo%3A" alt="Typing SVG" /></a>
+---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=1&color=F7F7F7&vCenter=true&repeat=false&width=35&height=35&lines=%F0%9F%A7%B0" alt="Typing SVG" /></a> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=1&pause=1000&color=F7F7F7&vCenter=true&width=650&height=40&lines=%3A+Python%2C+Java%2C+HTML%2C+CSS%2C+JavaScript%2C+C%2B%2B" alt="Typing SVG" /></a>
+## 🔥 **Sobre Mí**
+¡Hola! 👋 Soy Joaquín, un futuro ingeniero con una gran pasión por la tecnología y el desarrollo de software. Me encanta enfrentar desafíos técnicos, aprender nuevas tecnologías y aplicar mis conocimientos para crear soluciones innovadoras. Además, disfruto del deporte y los videojuegos, lo que me ayuda a mantener un equilibrio entre mente y cuerpo.
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=1&color=F7F7F7&vCenter=true&repeat=false&width=35&height=35&lines=%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=1&pause=1000&color=F7F7F7&vCenter=true&width=650&height=40&lines=%3A++GitHub%2C+AWS%2C+MongoDb%2C+Linux" alt="Typing SVG" /></a>
+---
 
-![Java](https://skillicons.dev/icons?i=java&height=24)
-![Python](https://skillicons.dev/icons?i=python&height=24)
-![AWS](https://skillicons.dev/icons?i=aws&height=24)
-![Linux](https://skillicons.dev/icons?i=linux&height=24)
-![C++](https://skillicons.dev/icons?i=cpp&height=24)
-![GitHub](https://skillicons.dev/icons?i=github&height=24)
+## 🛠 **Habilidades Técnicas**
 
+### **Lenguajes de Programación**
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</div>
 
+### **Bases de Datos y Herramientas**
+<div align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</div>
 
+---
 
+## 🌟 **Pasiones Tecnológicas**
+- **🔐 Ciberseguridad**: Pentesting · Análisis forense · Hardening
+- **📊 Bases de Datos**: Optimización SQL/NoSQL · Modelado · ETL
+- **☁️ Cloud Architect**: AWS · Automatización · Infraestructura como código
+---
 
+## 📊 **Estadísticas de GitHub**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoacoWn&show_icons=true&theme=radical" alt="Estadísticas">
+  <img src="https://streak-stats.demolab.com?user=JoacoWn&theme=radical&hide_border=true" alt="Racha de contribuciones">
+</div>
+
+---
+
+## 📫 **Contacto**
+¡No dudes en contactarme si quieres colaborar o conversar sobre tecnología!
+
+<div align="center">
+  <a href="https://linkedin.com/in/tu_perfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:tu_email@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
 <!--
 **JoacoWn/JoacoWn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
